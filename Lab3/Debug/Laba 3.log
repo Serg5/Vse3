@@ -1,0 +1,9 @@
+﻿  Task1.c
+d:\универ\практика\laba 3\laba 3\task1.c(324): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+d:\универ\практика\laba 3\laba 3\task1.c(176): warning C4716: findFirstElement1: должна возвращать значение
+d:\универ\практика\laba 3\laba 3\task1.c(233): warning C4716: findFirstNegativeElement1: должна возвращать значение
+d:\универ\практика\laba 3\laba 3\task1.c(195): warning C4716: findFirstElement2: должна возвращать значение
+d:\универ\практика\laba 3\laba 3\task1.c(216): warning C4716: findFirstElement3: должна возвращать значение
+d:\универ\практика\laba 3\laba 3\task1.c(252): warning C4716: findFirstNegativeElement2: должна возвращать значение
+d:\универ\практика\laba 3\laba 3\task1.c(273): warning C4716: findFirstNegativeElement3: должна возвращать значение
+  Laba 3.vcxproj -> D:\Универ\практика\Laba 3\Debug\Laba 3.exe

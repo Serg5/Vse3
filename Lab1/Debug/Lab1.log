@@ -1,0 +1,12 @@
+﻿  task7_main.c
+C:\Users\Гость\Downloads\Новая папка\laba1-master\Lab1\Task7\task7_main.c(13,8): warning C4013:  system: нет определения; предполагается "extern" с возвратом типа "int"
+Task2.obj : error LNK2005: _main уже определен в Task1.obj
+Task3.obj : error LNK2005: _f уже определен в Task2.obj
+Task3.obj : error LNK2005: _main уже определен в Task1.obj
+task4.obj : error LNK2005: _main уже определен в Task1.obj
+Task5_func.obj : error LNK2005: _f уже определен в Task2.obj
+task5_main.obj : error LNK2005: _main уже определен в Task1.obj
+task6_func.obj : error LNK2005: _f уже определен в Task2.obj
+task6_main.obj : error LNK2005: _main уже определен в Task1.obj
+task7_main.obj : error LNK2005: _main уже определен в Task1.obj
+C:\Users\Гость\Downloads\Новая папка\laba1-master\Debug\Lab1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

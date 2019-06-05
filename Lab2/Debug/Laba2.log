@@ -1,0 +1,4 @@
+﻿  Task1.c
+d:\универ\практика\laba2\laba2\task1.c(21): warning C4101: o: неиспользованная локальная переменная
+d:\универ\практика\laba2\laba2\task1.c(53): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Laba2.vcxproj -> D:\Универ\практика\Laba2\Debug\Laba2.exe
